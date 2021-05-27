@@ -1,0 +1,6 @@
+projectKey=ResmiDemoProject
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/ResmiDemoProject
+ceTaskId=AXmc5-4vgou_a7mhdRV_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXmc5-4vgou_a7mhdRV_
